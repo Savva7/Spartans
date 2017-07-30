@@ -1,0 +1,7 @@
+name="Mobdro"
+section="no"
+url="https://www.mobdro.to/mobdro.apk"
+icon="https://img.mobdroforpcappdownload.com/2016/10/imagen-mobdro-online-tv-0big.png"
+fanart="https://mobdroapk.wiki/wp-content/uploads/2017/02/Mobdro.jpg"
+adult="no"
+description="Sky Channels and Others"

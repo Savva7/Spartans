@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.spartans" name="Spartans" version="0.0.1" provider-name="Maz">
+	<extension point="xbmc.addon.repository" name="Spartans">
+		<dir>
+			<info compressed="false">https://raw.githubusercontent.com/noobsandnerds/modules4all/master/zips/addons.xml</info>
+			<checksum>https://raw.githubusercontent.com/noobsandnerds/modules4all/master/zips/addons.xml.md5</checksum>
+			<datadir zip="true">https://raw.githubusercontent.com/noobsandnerds/modules4all/master/zips/</datadir>
+		</dir>
+		<info compressed="false">https://raw.githubusercontent.com/Savva7/repository.spartans/master/zips/addons.xml</info>
+		<checksum>https://raw.githubusercontent.com/Savva7/repository.spartans/master/zips/addons.xml.md5</checksum>
+		<datadir zip="true">https://raw.githubusercontent.com/Savva7/repository.spartans/master/zips/</datadir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary lang="en">USe For Maz Only</summary>
+		<description lang="en">I Made This Repo For All In One Media For My Use</description>
+		<genre>documentary,gaming,livetv,movies,space,tvshows,uk</genre>
+	</extension>
+</addon>

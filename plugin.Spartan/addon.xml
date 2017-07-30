@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="plugin.Spartan" name="Spartan" version="1.4.4" provider-name="Maz">
+	<requires>
+		<import addon="xbmc.python" version="2.19.0" />
+		<import addon="script.module.nanscrapers" version="0.5.5" />
+        <import addon="script.module.python.koding.aio" version="0.0.1"/>
+	</requires>
+	<extension point="xbmc.python.pluginsource" library="default.py">
+		<provides>video</provides>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary lang="en">Marios Addon Only</summary>
+		<description lang="en">G is fat, Marce likes dinner ladies, Tolga is a chimp, Kyri is a hairy food critic, Solo likes to shit! Nick is the greek borat, Mal has some SERIOUSLY large feet and lets not talk about what Gayson likes to do!</description>
+		<platform>all</platform>
+		<forum></forum>
+		<website></website>
+		<news></news>
+		<genre>uk</genre>
+		<video_guide></video_guide>
+		<video_preview></video_preview>
+	</extension>
+</addon>

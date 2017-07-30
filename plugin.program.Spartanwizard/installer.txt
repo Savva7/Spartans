@@ -1,0 +1,62 @@
+name="Spartan 1.4.4"
+plugin="plugin.Spartan"
+url="http://spartans.000webhostapp.com/Repository/Plugins/plugin.Spartan/plugin.Spartan.zip"
+repository="none"
+repositoryxml="http://"
+repositoryurl="http://"
+icon="http://spartans.000webhostapp.com/Repository/Plugins/plugin.Spartan/icon.png"
+fanart="http://spartans.000webhostapp.com/Repository/Plugins/plugin.Spartan/fanart.jpg"
+adult="no"
+description="All in One Addon By Maz."
+
+
+name="Noobsandnerds Repository"
+plugin="repository.noobsandnerds"
+url="http://spartans.000webhostapp.com/Repository/Wizard/addons/repository.noobsandnerds/noobsandnerds%20Repo%20(2.0).zip"
+repository="none"
+repositoryxml="http://"
+repositoryurl="http://"
+icon="http://spartans.000webhostapp.com/Repository/Wizard/addons/repository.noobsandnerds/icon.png"
+fanart="http://spartans.000webhostapp.com/Repository/Wizard/addons/repository.noobsandnerds/fanart.jpg"
+adult="no"
+description="Noobs And Nerds NEW."
+
+name="Urlresolver"
+plugin="script.module.urlresolver"
+url="http://spartans.000webhostapp.com/Repository/Wizard/addons/script.module.urlresolver/script.module.urlresolver-3.0.32.zip"
+repository="none"
+repositoryxml="http://"
+repositoryurl="http://"
+icon="http://spartans.000webhostapp.com/Repository/Wizard/addons/script.module.urlresolver/icon.png"
+fanart="http://spartans.000webhostapp.com/Repository/Wizard/addons/script.module.urlresolver/fanart.jpg"
+adult="no"
+description=""
+
+name="Ares Repository"
+plugin="repository.aresproject"
+url="http://spartans.000webhostapp.com/Repository/Wizard/addons/repository.aresproject/repository.aresproject-0.0.8.zip"
+repository="none"
+repositoryxml="http://"
+repositoryurl="http://"
+icon="http://spartans.000webhostapp.com/Repository/Repository/Wizard/addons/repository.aresproject/icon.png"
+fanart="http://spartans.000webhostapp.com/Repository/Repository/Wizard/addons/repository.aresproject/fanart.jpg"
+adult="no"
+description=""
+
+name="Ares Wizard 0.0.60"
+plugin="script.areswizard"
+url="http://spartans.000webhostapp.com/Repository/Wizard/addons/script.areswizard/script.areswizard-0.0.60.zip"
+repository="none"
+repositoryxml="http://"
+repositoryurl="http://"
+icon="http://spartans.000webhostapp.com/Repository/Wizard/addons/script.areswizard/icon.png"
+fanart=""
+adult="no"
+description=""
+
+
+
+
+
+
+
