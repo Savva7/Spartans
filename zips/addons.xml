@@ -47,7 +47,7 @@
 		</dir>
 		<info compressed="false">https://raw.githubusercontent.com/Savva7/repository.spartans/master/zips/addons.xml</info>
 		<checksum>https://raw.githubusercontent.com/Savva7/repository.spartans/master/zips/addons.xml.md5</checksum>
-		<datadir zip="true">https://raw.githubusercontent.com/Savva7/repository.spartans/master/zips/</datadir>
+		<datadir zip="true">https://github.com/Savva7/Spartans/tree/master/zips/</datadir>
 	</extension>
 	<extension point="xbmc.addon.metadata">
 		<summary lang="en">USe For Maz Only</summary>
